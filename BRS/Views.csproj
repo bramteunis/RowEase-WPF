@@ -1,0 +1,108 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ChartsSettings.xml" />
+    <None Remove="Resources\add-user.png" />
+    <None Remove="Resources\AdminUsers.png" />
+    <None Remove="Resources\background.png" />
+    <None Remove="Resources\backward.png" />
+    <None Remove="Resources\calender.png" />
+    <None Remove="Resources\CheckIcon.png" />
+    <None Remove="Resources\clock.png" />
+    <None Remove="Resources\Clouds.png" />
+    <None Remove="Resources\EightIcon.png" />
+    <None Remove="Resources\ErrorIcon.png" />
+    <None Remove="Resources\Export.png" />
+    <None Remove="Resources\Four+Icon.png" />
+    <None Remove="Resources\Fourx-Icon.png" />
+    <None Remove="Resources\FourxIcon.png" />
+    <None Remove="Resources\Green-Plus.png" />
+    <None Remove="Resources\NatureImage1.jpg" />
+    <None Remove="Resources\NatureImage2.jpg" />
+    <None Remove="Resources\NatureImage3.jpg" />
+    <None Remove="Resources\NatureImage4.jpg" />
+    <None Remove="Resources\NatureImage5.jpg" />
+    <None Remove="Resources\NatureImage6.jpg" />
+    <None Remove="Resources\NatureImage7.jpg" />
+    <None Remove="Resources\Onex-Icon.png" />
+    <None Remove="Resources\plus-dynamic-color.png" />
+    <None Remove="Resources\Rain.gif" />
+    <None Remove="Resources\Rain.png" />
+    <None Remove="Resources\Red-Minus.png" />
+    <None Remove="Resources\Rower.ico" />
+    <None Remove="Resources\Rower.png" />
+    <None Remove="Resources\SunIcon.png" />
+    <None Remove="Resources\SunWolks.png" />
+    <None Remove="Resources\switch-off.png" />
+    <None Remove="Resources\switch-on.png" />
+    <None Remove="Resources\trash-can-dynamic-color.png" />
+    <None Remove="Resources\Two+-Icon.png" />
+    <None Remove="Resources\Twox-Icon.png" />
+    <None Remove="Resources\UserIcon3D.png" />
+    <None Remove="Resources\WarningIcon.png" />
+    <None Remove="Resources\Weather.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WpfAnimatedGif" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Charts.WPF\Charts.WPF.csproj" />
+    <ProjectReference Include="..\Controllers\Controllers.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Sunrise\Sunrise.csproj" />
+    <ProjectReference Include="..\Utilities\Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\add-user.png" />
+    <Resource Include="Resources\AdminUsers.png" />
+    <Resource Include="Resources\background.png" />
+    <Resource Include="Resources\backward.png" />
+    <Resource Include="Resources\calender.png" />
+    <Resource Include="Resources\CheckIcon.png" />
+    <Resource Include="Resources\clock.png" />
+    <Resource Include="Resources\Clouds.png" />
+    <Resource Include="Resources\EightIcon.png" />
+    <Resource Include="Resources\ErrorIcon.png" />
+    <Resource Include="Resources\Export.png" />
+    <Resource Include="Resources\Four+Icon.png" />
+    <Resource Include="Resources\Fourx-Icon.png" />
+    <Resource Include="Resources\FourxIcon.png" />
+    <Resource Include="Resources\Green-Plus.png" />
+    <Resource Include="Resources\NatureImage1.jpg" />
+    <Resource Include="Resources\NatureImage2.jpg" />
+    <Resource Include="Resources\NatureImage3.jpg" />
+    <Resource Include="Resources\NatureImage4.jpg" />
+    <Resource Include="Resources\NatureImage5.jpg" />
+    <Resource Include="Resources\NatureImage6.jpg" />
+    <Resource Include="Resources\NatureImage7.jpg" />
+    <Resource Include="Resources\Onex-Icon.png" />
+    <Resource Include="Resources\plus-dynamic-color.png" />
+    <Resource Include="Resources\Rain.gif" />
+    <Resource Include="Resources\Rain.png" />
+    <Resource Include="Resources\Red-Minus.png" />
+    <Resource Include="Resources\Rower.ico" />
+    <Resource Include="Resources\Rower.png" />
+    <Resource Include="Resources\SunIcon.png" />
+    <Resource Include="Resources\SunWolks.png" />
+    <Resource Include="Resources\switch-off.png" />
+    <Resource Include="Resources\switch-on.png" />
+    <Resource Include="Resources\trash-can-dynamic-color.png" />
+    <Resource Include="Resources\Two+-Icon.png" />
+    <Resource Include="Resources\Twox-Icon.png" />
+    <Resource Include="Resources\UserIcon3D.png" />
+    <Resource Include="Resources\WarningIcon.png" />
+    <Resource Include="Resources\Weather.png" />
+  </ItemGroup>
+
+</Project>

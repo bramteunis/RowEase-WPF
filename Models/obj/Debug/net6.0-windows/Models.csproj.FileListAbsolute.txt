@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\BRS\Models\bin\Debug\net6.0-windows\Models.deps.json
+C:\Users\fabia\source\repos\BRS\Models\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\source\repos\BRS\Models\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\refint\Models.dll
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\source\repos\BRS\Models\obj\Debug\net6.0-windows\ref\Models.dll

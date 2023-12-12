@@ -1,0 +1,90 @@
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.deps.json
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Database.dll
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CopyComplete
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\refint\Controllers.dll
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\source\repos\BRS\Controllers\obj\Debug\net6.0-windows\ref\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Controllers.deps.json
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Database.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CopyComplete
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\refint\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\Controllers.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\obj\Debug\net6.0-windows\ref\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Controllers\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.deps.json
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Database.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CopyComplete
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\refint\Controllers.dll
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\Downloads\BRS\Controllers\obj\Debug\net6.0-windows\ref\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Controllers.deps.json
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Database.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.csproj.CopyComplete
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\refint\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\Controllers.pdb
+C:\Users\SKIKK\Downloads\BRS3\Controllers\obj\Debug\net6.0-windows\ref\Controllers.dll

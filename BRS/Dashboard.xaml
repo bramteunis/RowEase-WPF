@@ -1,0 +1,413 @@
+﻿<Window x:Class="Views.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:Views"
+        mc:Ignorable="d"
+       Title="Dashboard" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary Source="ChartsSettings.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Resources/background.png"
+                AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <!-- header objects -->
+        <Canvas Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Background="#FFEFEFEF" />
+        <Image HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Source="Resources/UserIcon3D.png" Name="ManageUsers" Grid.Column="1" Grid.Row="0" Margin="0,0,175,0" MouseLeftButtonDown="ManageUsers_MouseLeftButtonDown" Cursor="Hand"/>
+        <Image HorizontalAlignment="Left"  VerticalAlignment="Top" Height="50" Source="Resources/Rower.png"/>
+        <Image HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Source="Resources/add-user.png" Name="BecomeMember"  Grid.Column="1" Grid.Row="0" Margin="0,0,100,0" MouseLeftButtonDown="BecomeMember_MouseLeftButtonDown" Cursor="Hand"/>
+        <Image HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Source="Resources/plus-dynamic-color.png" Name="OpenMakeReservation" MouseLeftButtonDown="OpenMakeReservation_MouseLeftButtonDown" Grid.Column="1" Grid.Row="0" Margin="25,0,25,0" Cursor="Hand"/>
+        <Image HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Source="Resources/calender.png" Name="CloseDay" MouseLeftButtonDown="CloseDay_MouseLeftButtonDown" Grid.Column="1" Grid.Row="0" Margin="0,0,250,0" Cursor="Hand"/>
+        <Image HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Source="Resources/Export.png" Name="ExportData" MouseLeftButtonDown="ExportData_MouseLeftButtonDown" Grid.Column="1" Grid.Row="0" Margin="0,0,325,0" Cursor="Hand"/>
+        <TextBlock x:Name="welcomeUser"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="Black"
+                       FontSize="22"
+                       FontFamily="/Fonts/#Poppins" Width="617" Grid.ColumnSpan="2" Margin="90,0,0,0"/>
+        <Grid Grid.Column="0" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Name="WhiteBlock" Height="8*" />
+                <RowDefinition Height="0.5*" />
+            </Grid.RowDefinitions>
+            <Grid.Triggers>
+                <EventTrigger RoutedEvent="Grid.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ObjectAnimationUsingKeyFrames Duration="0:0:3.100" Storyboard.TargetName="WhiteBlock" Storyboard.TargetProperty="Height">
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0.000">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>0*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.500">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>0*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.600">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>0.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.700">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>1*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.800">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>1.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.900">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>2*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.000">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>2.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.100">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>3*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.200">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>3.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.300">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>4*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.400">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>4.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.500">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.600">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>5.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.700">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>6*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.800">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>6.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:2.900">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>7*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:3.000">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>7.5*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:3.100">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <GridLength>8*</GridLength>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                            </ObjectAnimationUsingKeyFrames>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Grid.Triggers>
+            <ContentControl Name="Contentcontrol" Grid.Column="1" Grid.Row="1" Content="{Binding}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ContentTemplate="{StaticResource PageContent}"/>
+            <Grid Grid.Row="1" Grid.Column="1" Margin="0,0,10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="2*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="10*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="Vandaag" Foreground="Black" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="1" Grid.Row="0" Text="Morgen" Foreground="Black" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="2" Grid.Row="0" Text="Overmorgen" Foreground="Black" TextAlignment="Center"/>
+
+                    <Border Name="WeatherCardDay1" Grid.Column="0" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10" Opacity="0">
+                        <Border.Background>
+                            <SolidColorBrush x:Name="WeatherAdviseColor" Color="Red" Opacity="0.7"></SolidColorBrush>
+                        </Border.Background>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Name="WeatherWarningDay1" Source="Resources/CheckIcon.png"></Image>
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Grid.Column="1" Grid.Row="1" Name="WeatherAdviseTextDay1" Text="Negatief roeiadvies"/>
+                        </Grid>
+                    </Border>
+                    <Border Name="WeatherCardDay2" Grid.Column="1" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10" Opacity="0">
+                        <Border.Background>
+                            <SolidColorBrush x:Name="WeatherAdviseColorDay2" Color="Red" Opacity="0.7"></SolidColorBrush>
+                        </Border.Background>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Name="WeatherWarningDay2" Source="Resources/CheckIcon.png"></Image>
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Grid.Column="1" Grid.Row="1" Name="WeatherAdviseTextDay2" Text="Negatief roeiadvies"/>
+                        </Grid>
+                    </Border>
+                    <Border Name="WeatherCardDay3" Grid.Column="2" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10" Opacity="0">
+                        <Border.Background>
+                            <SolidColorBrush x:Name="WeatherAdviseColorDay3" Color="Red" Opacity="0.7"></SolidColorBrush>
+                        </Border.Background>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Name="WeatherWarningDay3" Source="Resources/CheckIcon.png"></Image>
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Grid.Column="1" Grid.Row="1" Name="WeatherAdviseTextDay3" Text="Negatief roeiadvies"/>
+                        </Grid>
+                    </Border>
+                    <Border Name="WeatherInfoDay1" Grid.Column="0" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10" Width="auto">
+                        <Border.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="Resources/NatureImage3.jpg" AlignmentY="Center" AlignmentX="Center"/>
+                        </Border.Background>
+                        <Border.RenderTransform>
+                            <RotateTransform x:Name="MyAnimatedTransform" Angle="0" />
+                        </Border.RenderTransform>
+
+                        <Grid Grid.Column="1" Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="9*"/>
+                                <RowDefinition Height="3*"/>
+                            </Grid.RowDefinitions>
+                            <Image Visibility="Hidden" Name="RainGifDay1" Grid.ColumnSpan="2" Grid.RowSpan="5" gif:ImageBehavior.AnimatedSource="Resources/Rain.gif"  Margin="10,0,0,10"/>
+                            <TextBlock Name="LocationWeatherDay1" Grid.Column="0" Grid.Row="1" Text="Zwolle" Foreground="White" FontSize="10" Margin="10,0,0,0"/>
+                            <TextBlock Name="TemperatureWeatherDay1" Grid.Column="0" Grid.Row="2" Text="16" Foreground="White" FontSize="60" Margin="0,-5,0,0"/>
+                            <TextBlock Name="SummaryWeatherDay1" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Text="Lekker zonnig" Margin="0,10,5,0" Foreground="White">
+                                <TextBlock.LayoutTransform>
+                                    <RotateTransform Angle="90"/>
+                                </TextBlock.LayoutTransform>
+                            </TextBlock>
+                            <Image Name="TempImageDay1" Grid.Column="0" Source="Resources/SunIcon.png" Width="20" Height="20" Margin="22,-4,15,29" Grid.RowSpan="3"/>
+                            <Border Name="AdditionalInformationDailyForecast" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" BorderBrush="White" BorderThickness="1,1,1,1" CornerRadius="5,5,5,5" Margin="10,0,10,10">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Name="HumidityWeatherDay1" Margin="5,0,5,10" Grid.Column="0" Text="72%" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="0" Text="Vochtigheid" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="VisionWeatherDay1" Margin="5,0,5,10" Grid.Column="1" Text="8KM" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="1" Text="Zicht" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="WindWeatherDay1" Margin="5,0,5,10" Grid.Column="2" Text="Low 0" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="2" Text="Wind" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                </Grid>
+                            </Border>
+
+                        </Grid>
+
+                    </Border>
+                    <Border Name="WeatherInfoDay2" Grid.Column="1" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10">
+                        <Border.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="Resources/NatureImage5.jpg" AlignmentY="Center" AlignmentX="Center"/>
+                        </Border.Background>
+                        <Grid Grid.Column="1" Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="9*"/>
+                                <RowDefinition Height="3*"/>
+                            </Grid.RowDefinitions>
+                            <Image Visibility="Hidden" Name="RainGifDay2" Grid.ColumnSpan="2" Grid.RowSpan="5" gif:ImageBehavior.AnimatedSource="Resources/Rain.gif"  Margin="10,0,0,10"/>
+
+                            <TextBlock Name="LocationWeatherDay2" Grid.Column="0" Grid.Row="1" Text="Zwolle" Foreground="White" FontSize="10" Margin="10,0,0,0"/>
+                            <TextBlock Name="TemperatureWeatherDay2" Grid.Column="0" Grid.Row="2" Text="3°" Foreground="White" FontSize="60" Margin="0,-5,0,0"/>
+                            <TextBlock Name="SummaryWeatherDay2" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Text="Niet zonnig" Margin="0,10,5,0" Foreground="White">
+                                <TextBlock.LayoutTransform>
+                                    <RotateTransform Angle="90"/>
+                                </TextBlock.LayoutTransform>
+                            </TextBlock>
+                            <Image Name="TempImageDay2" Grid.Column="0" Source="Resources/Rain.png" Width="20" Height="20" Margin="22,-4,15,29" Grid.RowSpan="3"/>
+                            <Border Name="AdditionalInformationDailyForecastDay2" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" BorderBrush="White" BorderThickness="1,1,1,1" CornerRadius="5,5,5,5" Margin="10,0,10,10">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Name="HumidityWeatherDay2" Margin="5,0,5,10" Grid.Column="0" Text="92%" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="0" Text="Vochtigheid" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="VisionWeatherDay2" Margin="5,0,5,10" Grid.Column="1" Text="10KM" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="1" Text="Zicht" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="WindWeatherDay2" Margin="5,0,5,10" Grid.Column="2" Text="Low 0" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="2" Text="Wind" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                </Grid>
+                            </Border>
+
+                        </Grid>
+
+                    </Border>
+                    <Border Name="WeatherInfoDay3" Grid.Column="2" Grid.Row="1" BorderBrush="Transparent" BorderThickness="1,1,1,1" CornerRadius="10,10,10,10" Margin="10,0,0,10">
+                        <Border.Background>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="Resources/NatureImage6.jpg" AlignmentY="Center" AlignmentX="Center"/>
+                        </Border.Background>
+
+                        <Grid Grid.Column="1" Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="8*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="9*"/>
+                                <RowDefinition Height="3*"/>
+                            </Grid.RowDefinitions>
+                            <Image Visibility="Hidden" Name="RainGifDay3" Grid.ColumnSpan="2" Grid.RowSpan="5" gif:ImageBehavior.AnimatedSource="Resources/Rain.gif"  Margin="10,0,0,10"/>
+                            <TextBlock Name="LocationWeatherDay3" Grid.Column="0" Grid.Row="1" Text="Zwolle" Foreground="White" FontSize="10" Margin="10,0,0,0"/>
+                            <TextBlock Name="TemperatureWeatherDay3" Grid.Column="0" Grid.Row="2" Text="8°" Foreground="White" FontSize="60" Margin="0,-5,0,0"/>
+                            <TextBlock Name="SummaryWeatherDay3" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Text="Beetje zonnig" Margin="0,10,5,0" Foreground="White">
+                                <TextBlock.LayoutTransform>
+                                    <RotateTransform Angle="90"/>
+                                </TextBlock.LayoutTransform>
+                            </TextBlock>
+                            <Image Name="TempImageDay3" Grid.Column="0" Grid.Row="1" Source="Resources/Clouds.png" Width="20" Height="20" Margin="22,0,15,0" VerticalAlignment="Center" RenderTransformOrigin="-0.091,0.103"/>
+                            <Border Name="AdditionalInformationDailyForecastDay3" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" BorderBrush="White" BorderThickness="1,1,1,1" CornerRadius="5,5,5,5" Margin="10,0,10,10">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Name="HumidityWeatherDay3" Margin="5,0,5,10" Grid.Column="0" Text="92%" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="0" Text="Vochtigheid" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="VisionWeatherDay3" Margin="5,0,5,10" Grid.Column="1" Text="2KM" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="1" Text="Zicht" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Name="WindWeatherDay3" Margin="5,0,5,10" Grid.Column="2" Text="Low 6" FontSize="10" Foreground="White" TextAlignment="Center"/>
+                                    <TextBlock Margin="5,10,5,0" Grid.Column="2" Text="Wind" FontSize="7" Foreground="White" TextAlignment="Center"/>
+                                </Grid>
+                            </Border>
+
+                        </Grid>
+
+                    </Border>
+                </Grid>
+            </Grid>
+        </Grid>
+        <TextBlock Text="Aankomende reserveringen" Grid.Column="1" Grid.Row="2" TextAlignment="Center" Margin="0,10,0,0"/>
+        <ListBox x:FieldModifier="public" Background="Transparent" Margin="0,40,0,0" x:Name="boatListBox" ItemsSource="{Binding Reservations}" BorderThickness="0" Grid.Column="1" Grid.Row="1" Grid.IsSharedSizeScope="True" HorizontalContentAlignment="Stretch" MouseDoubleClick="boatListBox_MouseLeftButtonDown">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Height="80">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2.5*"></ColumnDefinition>
+                            <ColumnDefinition Width="3*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Width="137" Height="120" Grid.Column="0" Source="{Binding ReservationImage}" Margin="-135,-20,0,-50"></Image>
+                        <TextBlock Grid.Column="1" Text="{Binding Boats[0].boatName}" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                        <Image Width="40" Height="40" Source="Resources/clock.png" Grid.Column="2"></Image>
+                        <TextBlock Grid.Column="3" Text="{Binding StartTime}" VerticalAlignment="Center"></TextBlock>
+                        <Image Grid.Column="4" Source="Resources/trash-can-dynamic-color.png" VerticalAlignment="Center" Width="40" Height="40" MouseLeftButtonDown="RemoveReservation_MouseLeftButtonDown" />
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="Margin" Value="20"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="BorderThickness" Value="1 1 1 1"/>
+                    <Setter Property="Background" Value="White"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+
+                    <Style.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Style.Resources>
+                </Style>
+            </ListBox.ItemContainerStyle>
+        </ListBox>
+    </Grid>
+</Window>

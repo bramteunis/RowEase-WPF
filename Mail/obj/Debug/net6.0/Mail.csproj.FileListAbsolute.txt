@@ -1,0 +1,48 @@
+C:\Users\fabia\source\repos\BRS\Mail\bin\Debug\net6.0\Mail.deps.json
+C:\Users\fabia\source\repos\BRS\Mail\bin\Debug\net6.0\Mail.dll
+C:\Users\fabia\source\repos\BRS\Mail\bin\Debug\net6.0\Mail.pdb
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.dll
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\refint\Mail.dll
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\Mail.pdb
+C:\Users\fabia\source\repos\BRS\Mail\obj\Debug\net6.0\ref\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\bin\Debug\net6.0\Mail.deps.json
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\bin\Debug\net6.0\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\bin\Debug\net6.0\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\refint\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Mail\obj\Debug\net6.0\ref\Mail.dll
+C:\Users\fabia\Downloads\BRS\Mail\bin\Debug\net6.0\Mail.deps.json
+C:\Users\fabia\Downloads\BRS\Mail\bin\Debug\net6.0\Mail.dll
+C:\Users\fabia\Downloads\BRS\Mail\bin\Debug\net6.0\Mail.pdb
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.AssemblyInfoInputs.cache
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.AssemblyInfo.cs
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.dll
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\refint\Mail.dll
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\Mail.pdb
+C:\Users\fabia\Downloads\BRS\Mail\obj\Debug\net6.0\ref\Mail.dll
+C:\Users\SKIKK\Downloads\BRS3\Mail\bin\Debug\net6.0\Mail.deps.json
+C:\Users\SKIKK\Downloads\BRS3\Mail\bin\Debug\net6.0\Mail.dll
+C:\Users\SKIKK\Downloads\BRS3\Mail\bin\Debug\net6.0\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.dll
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\refint\Mail.dll
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS3\Mail\obj\Debug\net6.0\ref\Mail.dll

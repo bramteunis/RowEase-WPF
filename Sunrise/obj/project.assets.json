@@ -1,0 +1,181 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Angle/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Innovative.Geometry.Angle.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Innovative.Geometry.Angle.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SolarCalculator/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Angle": "3.3.0"
+        },
+        "compile": {
+          "lib/net6.0/Innovative.SolarCalculator.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Innovative.SolarCalculator.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Angle/3.3.0": {
+      "sha512": "Vckv2JalO5msWu7KptFAl4OpXugmBDQg45fB1eSB1rTJ8SB9r2gMXhWX0lk70cI98obp3k51wkxzb1DvvRYOeA==",
+      "type": "package",
+      "path": "angle/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Angle.png",
+        "README.md",
+        "angle.3.3.0.nupkg.sha512",
+        "angle.nuspec",
+        "lib/net40/Innovative.Geometry.Angle.dll",
+        "lib/net40/Innovative.Geometry.Angle.xml",
+        "lib/net45/Innovative.Geometry.Angle.dll",
+        "lib/net45/Innovative.Geometry.Angle.xml",
+        "lib/net461/Innovative.Geometry.Angle.dll",
+        "lib/net461/Innovative.Geometry.Angle.xml",
+        "lib/net5.0/Innovative.Geometry.Angle.dll",
+        "lib/net5.0/Innovative.Geometry.Angle.xml",
+        "lib/net6.0/Innovative.Geometry.Angle.dll",
+        "lib/net6.0/Innovative.Geometry.Angle.xml",
+        "lib/net7.0/Innovative.Geometry.Angle.dll",
+        "lib/net7.0/Innovative.Geometry.Angle.xml",
+        "lib/netcoreapp3.1/Innovative.Geometry.Angle.dll",
+        "lib/netcoreapp3.1/Innovative.Geometry.Angle.xml",
+        "lib/netstandard1.3/Innovative.Geometry.Angle.dll",
+        "lib/netstandard1.3/Innovative.Geometry.Angle.xml",
+        "lib/netstandard2.0/Innovative.Geometry.Angle.dll",
+        "lib/netstandard2.0/Innovative.Geometry.Angle.xml",
+        "lib/netstandard2.1/Innovative.Geometry.Angle.dll",
+        "lib/netstandard2.1/Innovative.Geometry.Angle.xml"
+      ]
+    },
+    "SolarCalculator/3.3.0": {
+      "sha512": "JRF8PujymPhMgh3Czais4Q9+Xwfxpaa/QyUx+IcFIJp0in21VltJyLHlezap0ndAikyniLcipz9ugm7WfqE7Ag==",
+      "type": "package",
+      "path": "solarcalculator/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "Solar-Calculator.png",
+        "lib/net40/Innovative.SolarCalculator.dll",
+        "lib/net40/Innovative.SolarCalculator.xml",
+        "lib/net45/Innovative.SolarCalculator.dll",
+        "lib/net45/Innovative.SolarCalculator.xml",
+        "lib/net461/Innovative.SolarCalculator.dll",
+        "lib/net461/Innovative.SolarCalculator.xml",
+        "lib/net5.0/Innovative.SolarCalculator.dll",
+        "lib/net5.0/Innovative.SolarCalculator.xml",
+        "lib/net6.0/Innovative.SolarCalculator.dll",
+        "lib/net6.0/Innovative.SolarCalculator.xml",
+        "lib/net7.0/Innovative.SolarCalculator.dll",
+        "lib/net7.0/Innovative.SolarCalculator.xml",
+        "lib/netcoreapp3.1/Innovative.SolarCalculator.dll",
+        "lib/netcoreapp3.1/Innovative.SolarCalculator.xml",
+        "lib/netstandard1.3/Innovative.SolarCalculator.dll",
+        "lib/netstandard1.3/Innovative.SolarCalculator.xml",
+        "lib/netstandard2.0/Innovative.SolarCalculator.dll",
+        "lib/netstandard2.0/Innovative.SolarCalculator.xml",
+        "lib/netstandard2.1/Innovative.SolarCalculator.dll",
+        "lib/netstandard2.1/Innovative.SolarCalculator.xml",
+        "solarcalculator.3.3.0.nupkg.sha512",
+        "solarcalculator.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SolarCalculator >= 3.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SKIKK\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SKIKK\\Downloads\\BRS3\\Sunrise\\Sunrise.csproj",
+      "projectName": "Sunrise",
+      "projectPath": "C:\\Users\\SKIKK\\Downloads\\BRS3\\Sunrise\\Sunrise.csproj",
+      "packagesPath": "C:\\Users\\SKIKK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SKIKK\\Downloads\\BRS3\\Sunrise\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SKIKK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SolarCalculator": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

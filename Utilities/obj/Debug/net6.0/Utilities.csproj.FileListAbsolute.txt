@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\fabia\source\repos\BRS\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\fabia\source\repos\BRS\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\fabia\source\repos\BRS\Utilities\obj\Debug\net6.0\ref\Utilities.dll

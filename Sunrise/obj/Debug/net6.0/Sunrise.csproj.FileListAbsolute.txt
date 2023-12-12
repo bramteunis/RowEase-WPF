@@ -1,0 +1,48 @@
+C:\Users\fabia\source\repos\BRS\Sunrise\bin\Debug\net6.0\Sunrise.deps.json
+C:\Users\fabia\source\repos\BRS\Sunrise\bin\Debug\net6.0\Sunrise.dll
+C:\Users\fabia\source\repos\BRS\Sunrise\bin\Debug\net6.0\Sunrise.pdb
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.dll
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\refint\Sunrise.dll
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\Sunrise.pdb
+C:\Users\fabia\source\repos\BRS\Sunrise\obj\Debug\net6.0\ref\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\bin\Debug\net6.0\Sunrise.deps.json
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\bin\Debug\net6.0\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\bin\Debug\net6.0\Sunrise.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\refint\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\Sunrise.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Sunrise\obj\Debug\net6.0\ref\Sunrise.dll
+C:\Users\fabia\Downloads\BRS\Sunrise\bin\Debug\net6.0\Sunrise.deps.json
+C:\Users\fabia\Downloads\BRS\Sunrise\bin\Debug\net6.0\Sunrise.dll
+C:\Users\fabia\Downloads\BRS\Sunrise\bin\Debug\net6.0\Sunrise.pdb
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfoInputs.cache
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfo.cs
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.dll
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\refint\Sunrise.dll
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\Sunrise.pdb
+C:\Users\fabia\Downloads\BRS\Sunrise\obj\Debug\net6.0\ref\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\bin\Debug\net6.0\Sunrise.deps.json
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\bin\Debug\net6.0\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\bin\Debug\net6.0\Sunrise.pdb
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\refint\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\Sunrise.pdb
+C:\Users\SKIKK\Downloads\BRS3\Sunrise\obj\Debug\net6.0\ref\Sunrise.dll

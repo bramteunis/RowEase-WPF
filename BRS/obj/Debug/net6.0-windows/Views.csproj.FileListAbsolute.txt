@@ -1,0 +1,235 @@
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Views.exe
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Views.runtimeconfig.json
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Views.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.dll
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.genruntimeconfig.cache
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Login.baml
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Database.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Register.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Verification.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Verification.baml
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetForm.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetForm.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ChartsSettings.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Charts.WPF.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Charts.WPF.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Booking.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\Booking.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\BookBoatDialog.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\BookBoatDialog.baml
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Innovative.Geometry.Angle.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Innovative.SolarCalculator.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Sunrise.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\Sunrise.pdb
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.baml
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ExportDialog.g.cs
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\fabia\source\repos\BRS\BRS\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\fabia\source\repos\BRS\BRS\obj\Debug\net6.0-windows\ExportDialog.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ChartsSettings.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\BookBoatDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Booking.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ExportDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\PasswordResetForm.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Verification.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Views.exe
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Views.runtimeconfig.json
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Views.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Innovative.Geometry.Angle.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Innovative.SolarCalculator.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Charts.WPF.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Database.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Sunrise.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Charts.WPF.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Sunrise.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\BookBoatDialog.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Booking.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ExportDialog.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Login.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\PasswordResetForm.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Register.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Verification.baml
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\Views.genruntimeconfig.cache
+C:\Users\SKIKK\Downloads\BRS (1)\BRS\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Views.exe
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Views.runtimeconfig.json
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Views.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Innovative.Geometry.Angle.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Innovative.SolarCalculator.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Charts.WPF.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Controllers.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Database.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Mail.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Sunrise.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Charts.WPF.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Controllers.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Sunrise.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\fabia\Downloads\BRS\BRS\bin\Debug\net6.0-windows\Mail.pdb
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ChartsSettings.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ExportDialog.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetForm.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Verification.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ExportDialog.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Login.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetForm.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Register.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Verification.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.dll
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\Views.genruntimeconfig.cache
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\MakeReservation.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ReserveBootDialog.g.cs
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\MakeReservation.baml
+C:\Users\fabia\Downloads\BRS\BRS\obj\Debug\net6.0-windows\ReserveBootDialog.baml
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\ChartsSettings.baml
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\ClosingDayDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\ExportDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\MakeReservation.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\ManageUsersDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\PasswordResetForm.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\PasswordResetRequest.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\ReserveBootDialog.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Verification.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Views.dll
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\SKIKK\Downloads\BRS3\BRS\obj\Debug\net6.0-windows\Views.pdb

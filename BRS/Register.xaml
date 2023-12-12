@@ -1,0 +1,66 @@
+﻿<Window x:Class="Views.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Views"
+        mc:Ignorable="d"
+        Title="Registration" Height="1080" Width="1920"
+        ResizeMode="CanMinimize"
+        WindowState="Maximized">
+    <Grid Background="White" Margin="0,0,0,-75">
+        <Grid Margin="0,80,0,0">
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Resources/background.png"
+                AlignmentY="Top" AlignmentX="Center"/>
+            </Grid.Background>
+
+            <!--text fields-->
+            <Border Margin="676,36,608,525" CornerRadius="20">
+                <Border.Background>
+                    <SolidColorBrush Color="White" Opacity="0.8" />
+                </Border.Background>
+                <ComboBox Margin="455,108,23,363" Name="certificateComboBox"/>
+            </Border>
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="0,100,0,0" x:Name ="errorMessage" VerticalAlignment="Top" Width="110"  OpacityMask="Crimson" Foreground="#FFE5572C" />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="-100,70,10,0" Name="textBlockName" Text="Volledige naam" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="110" />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="-105,130,0,0" Name="textBlockAddress" Text="Adres" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="110" />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="-105,190,0,0" Name="textBlockResidence" Text="Woonplaats" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.527,-2.613" />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="-105,250,0,0" Name="textBlockEmail" Text="Email" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="110" />
+            <TextBlock Height="22" HorizontalAlignment="Center" Margin="-105,310,0,0" Name="textBlockPassword" Text="Wachtwoord" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="110"  />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="-65,370,0,0" Name="textBlockConfirmPassword" Text="Wachtwoord Bevestigen" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="155" />
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="500,180,0,0" Name="certificateBox" Text="Heeft u roei certificaten?" FontSize="15" FontWeight="DemiBold" FontStyle="Normal" VerticalAlignment="Top" Width="160" />
+
+            <!--input fields-->
+            <TextBox Height="26" HorizontalAlignment="Center" FontSize="15" Margin="0,92,0,0" Name="textBoxName" VerticalAlignment="Top" Width="222" />
+            <TextBox Height="26" HorizontalAlignment="Center" FontSize="15" Margin="0,152,0,0" Name="textBoxAddress" VerticalAlignment="Top" Width="222" />
+            <TextBox Height="26" HorizontalAlignment="Center" FontSize="15" Margin="0,212,0,0" Name="textBoxResidence" VerticalAlignment="Top" Width="222" />
+            <TextBox Height="26" HorizontalAlignment="Center" FontSize="15" Margin="0,272,0,0" Name="textBoxEmail" VerticalAlignment="Top" Width="222" />
+            <PasswordBox Height="23" HorizontalAlignment="Center" Margin="0,332,0,0" Name="passwordBox" VerticalAlignment="Top" Width="222" />
+            <PasswordBox Height="23" HorizontalAlignment="Center" Margin="0,392,0,0" Name="passwordBoxConfirm" VerticalAlignment="Top" Width="222" />
+            <CheckBox x:Name="checkBoxMember" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Ik wil graag lid worden" Margin="0,422,0,0"/>
+
+            <!--button-->
+            <Button Content="toch inloggen?" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,445,0,0" Name="Login" Foreground="Gray" FontWeight="UltraBold" Click="Login_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <ContentPresenter />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="Registreren" Height="42" HorizontalAlignment="Center" Margin="0,472,0,0" FontSize="15" Name="Registeren" VerticalAlignment="Top" Width="112" Background="#219EBC" Click="Register_Click" />
+        </Grid>
+        <Grid Background="Black" Height="2" VerticalAlignment="Top" Margin="0,80,0,0" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+        </Grid>
+        <Image HorizontalAlignment="Right" VerticalAlignment="Top" Height="72" Width="61" Source="Resources/UserIcon3D.png" Margin="0,11,10,0"/>
+        <Image HorizontalAlignment="Left" VerticalAlignment="Top"  Height="72" Width="77" Source="Resources/Rower.png" Margin="10,6,0,0" />
+    </Grid>
+</Window>

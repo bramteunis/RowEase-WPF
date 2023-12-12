@@ -1,0 +1,49 @@
+﻿<Window x:Class="Views.Verification"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Views"
+        mc:Ignorable="d"
+        Title="Verification" Height="450" Width="800"
+        WindowState="Maximized">
+    <!-- Main grid -->
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="\Resources\background.png"/>
+        </Grid.Background>
+        <Canvas Background="White" Height="79" Margin="0,0,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Center" Height="294" Margin="0,120,0,0" Stroke="White" VerticalAlignment="Top" Width="362" Grid.Column="1" RadiusX="20" RadiusY="20" Fill="White" Opacity="0.8"/>
+
+
+        <!-- Main Verify textBlocks -->
+        <TextBlock HorizontalAlignment="Center" Height="20" Margin="-500,130,0,0" x:Name ="errorMessage" VerticalAlignment="Top" Width="247"  Grid.Column="1" OpacityMask="Crimson" Foreground="#FFE5572C" />
+        <TextBlock HorizontalAlignment="Center" Height="23" Margin="-75,195,0,0" x:Name="verifyTextBlock" VerticalAlignment="Top" Width="114" Grid.Column="1" Text="Verificatiecode" ></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Height="35" Margin="45,145,0,0" x:Name="checkEmailTextBlock" VerticalAlignment="Top" Width="144" Grid.Column="1" ><Run Language="nl-nl" Text="Check Email" FontSize="15"/></TextBlock>
+
+        <!-- Main verify container -->
+
+        <!-- Main verify textBox -->
+        <TextBox HorizontalAlignment="Center" Height="23"  Margin="0,217,0,0" x:Name="textBoxVerification" VerticalAlignment="Top" Width="193" Grid.Column="1" BorderBrush="#219EBC" />
+
+        <!-- Main verify button -->
+        <Button HorizontalAlignment="Center" Height="35" Margin="0,250,0,0" x:Name="Verify" VerticalAlignment="Top" Width="125" Grid.Column="1" Background="#219EBC" Content="Verifiëren" Click="Verify_Click" />
+
+        <!-- Header grid -->
+        <Grid Background="Black" Height="2" VerticalAlignment="Top" Margin="0,80,0,0" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+        </Grid>
+
+        <!-- Header images -->
+        <Image HorizontalAlignment="Right" VerticalAlignment="Top" Height="72" Width="61" Source="Resources/UserIcon3D.png" Margin="0,11,10,0"/>
+        <Image HorizontalAlignment="Left" VerticalAlignment="Top"  Height="72" Width="77" Source="Resources/Rower.png" Margin="10,6,0,0" />
+    </Grid>
+</Window>
+

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sunrise/1.0.0": {
+        "dependencies": {
+          "SolarCalculator": "3.3.0"
+        },
+        "runtime": {
+          "Sunrise.dll": {}
+        }
+      },
+      "Angle/3.3.0": {
+        "runtime": {
+          "lib/net6.0/Innovative.Geometry.Angle.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      },
+      "SolarCalculator/3.3.0": {
+        "dependencies": {
+          "Angle": "3.3.0"
+        },
+        "runtime": {
+          "lib/net6.0/Innovative.SolarCalculator.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sunrise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Angle/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vckv2JalO5msWu7KptFAl4OpXugmBDQg45fB1eSB1rTJ8SB9r2gMXhWX0lk70cI98obp3k51wkxzb1DvvRYOeA==",
+      "path": "angle/3.3.0",
+      "hashPath": "angle.3.3.0.nupkg.sha512"
+    },
+    "SolarCalculator/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRF8PujymPhMgh3Czais4Q9+Xwfxpaa/QyUx+IcFIJp0in21VltJyLHlezap0ndAikyniLcipz9ugm7WfqE7Ag==",
+      "path": "solarcalculator/3.3.0",
+      "hashPath": "solarcalculator.3.3.0.nupkg.sha512"
+    }
+  }
+}

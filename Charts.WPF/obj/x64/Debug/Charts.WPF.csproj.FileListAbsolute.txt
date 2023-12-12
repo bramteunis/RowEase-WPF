@@ -1,0 +1,11 @@
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\bin\x64\Debug\Charts.WPF.dll
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\bin\x64\Debug\Charts.WPF.pdb
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF_MarkupCompile.cache
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF_MarkupCompile.lref
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Themes\Generic.baml
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF.g.resources
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF.dll
+C:\Users\fabia\Downloads\KBS_OOSDDd5\KBS_OOSDDd5\Project Gerelateerde Documentatie\KBSOOSDDd5\3. RBS code\RBS\Charts.WPF\obj\x64\Debug\Charts.WPF.pdb

@@ -1,0 +1,45 @@
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\bin\Debug\net6.0-windows\Forecast.deps.json
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CopyComplete
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\refint\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS (1)\Forecast\obj\Debug\net6.0-windows\ref\Forecast.dll
+C:\Users\fabia\Downloads\BRS\Forecast\bin\Debug\net6.0-windows\Forecast.deps.json
+C:\Users\fabia\Downloads\BRS\Forecast\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\fabia\Downloads\BRS\Forecast\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\fabia\Downloads\BRS\Forecast\bin\Debug\net6.0-windows\Models.dll
+C:\Users\fabia\Downloads\BRS\Forecast\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.AssemblyReference.cache
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfoInputs.cache
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfo.cs
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CopyComplete
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.dll
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\refint\Forecast.dll
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\Forecast.pdb
+C:\Users\fabia\Downloads\BRS\Forecast\obj\Debug\net6.0-windows\ref\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS3\Forecast\bin\Debug\net6.0-windows\Forecast.deps.json
+C:\Users\SKIKK\Downloads\BRS3\Forecast\bin\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS3\Forecast\bin\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS3\Forecast\bin\Debug\net6.0-windows\Models.dll
+C:\Users\SKIKK\Downloads\BRS3\Forecast\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.AssemblyReference.cache
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfoInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.AssemblyInfo.cs
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.csproj.CopyComplete
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\refint\Forecast.dll
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\Forecast.pdb
+C:\Users\SKIKK\Downloads\BRS3\Forecast\obj\Debug\net6.0-windows\ref\Forecast.dll
